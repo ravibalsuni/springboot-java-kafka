@@ -15,7 +15,7 @@ It includes:
 	Installing Kafka 2.12-2.8.0
 
 	1.1) download binaries - 'kafka_2.12-2.8.0.tgz' from:
-	     https://github.com/ravibalsuni/springboot-java-kafka/kafka_2.12-2.8.0.tgz
+	     https://github.com/ravibalsuni/springboot-java-kafka/blob/master/kafka_2.12-2.8.0.tgz
 
 	1.2) Unzip the folder you downloaded in the required installation path as per your choice. 
 	     The contents extract to a folder named "kafka_2.12-2.8.0"

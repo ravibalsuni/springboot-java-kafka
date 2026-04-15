@@ -57,7 +57,7 @@ It includes:
 			or you can use 	following command - sudo kill -9 `sudo lsof -t -i:2181`and 
 			re-try this step 1.6) again by running start-zookeeper.sh script
 	
-	1.7) similarly run following command to start kafka server
+	1.7) similarly run following command to start kafka server later
 
 		 /home/ravi/kafka-installation/start-kafka.sh
 
